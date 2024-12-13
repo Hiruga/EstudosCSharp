@@ -1,0 +1,14 @@
+C:\Users\PICHAU\source\repos\Estudos\Estudos\bin\Debug\Estudos.exe.config
+C:\Users\PICHAU\source\repos\Estudos\Estudos\bin\Debug\Estudos.exe
+C:\Users\PICHAU\source\repos\Estudos\Estudos\bin\Debug\Estudos.pdb
+C:\Users\PICHAU\source\repos\Estudos\Estudos\obj\Debug\Estudos.csproj.AssemblyReference.cache
+C:\Users\PICHAU\source\repos\Estudos\Estudos\obj\Debug\Estudos.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\source\repos\Estudos\Estudos\obj\Debug\Estudos.exe
+C:\Users\PICHAU\source\repos\Estudos\Estudos\obj\Debug\Estudos.pdb
+C:\Users\Hiruga\source\repos\Estudos\Estudos\bin\Debug\Estudos.exe.config
+C:\Users\Hiruga\source\repos\Estudos\Estudos\bin\Debug\Estudos.exe
+C:\Users\Hiruga\source\repos\Estudos\Estudos\bin\Debug\Estudos.pdb
+C:\Users\Hiruga\source\repos\Estudos\Estudos\obj\Debug\Estudos.csproj.AssemblyReference.cache
+C:\Users\Hiruga\source\repos\Estudos\Estudos\obj\Debug\Estudos.csproj.CoreCompileInputs.cache
+C:\Users\Hiruga\source\repos\Estudos\Estudos\obj\Debug\Estudos.exe
+C:\Users\Hiruga\source\repos\Estudos\Estudos\obj\Debug\Estudos.pdb
